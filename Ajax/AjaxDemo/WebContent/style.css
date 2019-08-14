@@ -1,0 +1,13 @@
+body{
+	font-family:Helvetica;
+	text-align:center;
+	 background-size: cover;
+    background-repeat: no-repeat;  
+	background-image: url("nature.jpg");
+}
+
+#birthday-greeting{
+	font-size:72px;
+	color:red;
+	text-transform: uppercase;
+}
